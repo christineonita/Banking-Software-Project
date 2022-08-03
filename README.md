@@ -1,4 +1,4 @@
-# Banking Software Project #
+# Software Design Project #
 
 ## Overview ##
 - A bank software system created using _Test-Driven Development_ (TDD)
